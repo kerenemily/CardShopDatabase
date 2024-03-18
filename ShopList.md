@@ -1,4 +1,8 @@
-### Card Shop Database
+## Card Shop Database
 
-| Card Shop           | Address   | Website   | Stars   | Review   | Contact   | Notes [!NOTE]  |
+> [!NOTE]
+> This is a work in progress
+
+
+| Card Shop           | Address   | Website   | Stars   | Review   | Contact   | Notes  |
 |:-----------------------------|:-------------------|:-------------------|:-----|:--------------|:----------|:--------------|
